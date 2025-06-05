@@ -1,6 +1,6 @@
 # PROYECTO
 
-## Markus David Gutierrez fernandez
+## Markus David Gutierrez Fernandez
 
 ### 1. ¿Cómo diseño la solución?
 Diseñe la solución empezando por crear el diseño de las vistas en canvas,
